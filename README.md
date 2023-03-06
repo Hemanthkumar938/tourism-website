@@ -10,4 +10,6 @@ properties.
 ● Implemented multiple images of a particular destination in a carousel using
 bootstrap carousel and virtual tour videos using bootstrap embed component.
 
-Technologies used: HTML, CSS, Bootstrap.
+Technologies used : HTML, CSS, Bootstrap.
+
+ https://hemanthkumar938.github.io/tourism-website/   tap here to preview my project
